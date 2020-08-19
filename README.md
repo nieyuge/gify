@@ -1,3 +1,6 @@
+获取图片帧数
+
+
 # gify
 JavaScript API for decoding/parsing information from animated GIFs using ArrayBuffers.
 
